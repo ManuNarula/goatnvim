@@ -1,1 +1,1 @@
-# goatnvim
+# Nvim Config
